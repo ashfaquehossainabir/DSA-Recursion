@@ -41,6 +41,3 @@ console.log(multiply(numbers))
 // Final Iteration: 5 * 4 * 3 * 2 * 1 * 1
 
 // So, Result will be --> 5 x 4 x 3 x 2 x 1 x 1 = 120
-
-const h2 = document.querySelector(".contents")
-console.log(h2.innerText)
